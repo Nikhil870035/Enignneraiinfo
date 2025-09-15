@@ -25,7 +25,7 @@ It highlights their lives, achievements, and the revolutionary inventions that s
 ---
 
 ## 🚀 Live Demo
-👉 [Visit the Website](https://Nikhil870035.github.io/Enignneraiinfo/)  
+👉 [Visit the Website](https://Nikhil870035.github.io/engineeraiinfo/)  
 
 ---
 
@@ -51,7 +51,7 @@ It aims to **inspire future innovators** by showcasing the impact of engineering
 ## 🧑‍💻 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nikhil870035/Enignneraiinfo.git
+   git clone https://github.com/Nikhil870035/engineeraiinfo.git
 
 ## Developed by Nikhil Sharma
 Inspired by the vision and innovation of legendary engineers.
