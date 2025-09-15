@@ -25,7 +25,7 @@ It highlights their lives, achievements, and the revolutionary inventions that s
 ---
 
 ## 🚀 Live Demo
-👉 [Visit the Website](https://<your-github-username>.github.io/<your-repo-name>/)  
+👉 [Visit the Website](https://Nikhil870035.github.io/Engineeraiinfo/)  
 *(Update the above link after enabling GitHub Pages)*
 
 ---
